@@ -73,7 +73,7 @@
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Outros conhecimentos, aprendendo sempre!</b></summary>
+  <summary><b>:brain: &nbsp;Outros conhecimentos</b></summary>
   <h4>IDEs e Ferramentas</h4>
     <p style="text-align:center;">
       <img alt="NodeJS" src="https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white">&nbsp;
