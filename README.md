@@ -1,8 +1,8 @@
 <img src="images/capa.jpg"></img>
 
 <table align="right">
- <tr><td><a href="README_pt.md"><img src="images/brazil.png" height="15"> Português</a></td></tr>
- <tr><td><a href="README_en.md"><img src="images/united-states.png" height="15"> English</a></td></tr>
+ <tr><td><a href="README.md"><img src="images/brazil.png" height="15"> Português</a></td></tr>
+ <tr><td><a href="README_en.md"><img src="images/united-states.png" height="15"> Inglês</a></td></tr>
 </table>
 
 <br>
