@@ -13,7 +13,7 @@
 👷 Formado em Engenharia Civil em 2015.\
 👯 Buscando oportunidades na área de desenvolvimento Backend.\
 🖥️ Trabalhando atualmente como Controlador Financeiro na empresa [Stanley's Holding](https://stanleys.com.br/).\
-📚 Estudando atualmente na [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/).\
+📚 Estudando atualmente na [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/).
 
 <p align="center">
     <a href="https://github.com/KaueCaponero"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
