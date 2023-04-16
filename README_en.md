@@ -13,7 +13,7 @@
 👷 Graduated in Civil Engineering in 2015.\
 👯 I’m looking to collaborate on Backend Development.\
 🖥️ Currently working as a Financial Controller at [Stanley's Holding](https://stanleys.com.br/).\
-📚 Currently studying Systems Analysis and Development at the [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/).\
+📚 Currently studying Systems Analysis and Development at the [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/)
 
 <p align="center">
     <a href="https://github.com/KaueCaponero"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
