@@ -12,7 +12,7 @@
 &nbsp;<img src="images/brazil.png" height="15">&nbsp;Morando no Brasil.\
 👷 Formado em Engenharia Civil em 2015.\
 👯 Buscando oportunidades na área de desenvolvimento Backend.\
-🖥️ Trabalhando atualmente como Controlador Financeiro na empresa [Stanley's Holding](https://stanleys.com.br/).\
+🖥️ Trabalhando atualmente como Controlador Financeiro na empresa [Federal Invest](https://www.federalinvest.com.br/).\
 📚 Estudando atualmente na [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/).
 
 <p align="center">
