@@ -31,6 +31,7 @@
   <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)">
     <img alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E">
   </p>
   <h4>Front-end</h4>
@@ -52,8 +53,11 @@
     <img alt="Eclipse" src="https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse">
     <img alt="Maven" src="https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven">
     <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+    <img alt="Insomnia" src = "https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+    <img alt="PowerBI" src="https://img.shields.io/badge/Power_Bi-F2C811?style=flat&logo=powerbi&logoColor=black">
     <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
     <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white">
     <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white">
