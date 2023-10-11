@@ -11,8 +11,8 @@
 
 &nbsp;<img src="images/brazil.png" height="15">&nbsp;Morando no Brasil.\
 👷 Formado em Engenharia Civil em 2015.\
-👯 Buscando oportunidades na área de desenvolvimento Backend.\
-🖥️ Trabalhando atualmente como Desenvolvedor e Analista de Crédito na empresa [Kuará Capital](https://kuaracapital.com/).\
+👯 Desenvolvimento Backend.\
+🖥️ Trabalhando atualmente como Desenvolvedor e Analista de Middle Office na empresa [Kuará Capital](https://kuaracapital.com/).\
 📚 Estudando atualmente na [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/).
 
 <p align="center">
@@ -40,7 +40,6 @@
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white">
     <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB">
-    <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   </p>
   <h4>Controle de Versão</h4>
@@ -78,7 +77,6 @@
   <h4>IDEs e Ferramentas</h4>
     <p style="text-align:center;">
       <img alt="NodeJS" src="https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white">&nbsp;
-      <img alt="GithubActions" src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white">&nbsp;
     </p>
   <hr>
 </details>
