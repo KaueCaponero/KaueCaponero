@@ -40,7 +40,6 @@
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white">
     <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB">
-    <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   </p>
   <h4>Version Control</h4>
@@ -78,7 +77,6 @@
   <h4>IDEs and Tools</h4>
     <p style="text-align:center;">
       <img alt="NodeJS" src="https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white">&nbsp;
-      <img alt="GithubActions" src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?&style=flat&logo=github-actions&logoColor=white">&nbsp;
     </p>
   <hr>
 </details>
