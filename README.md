@@ -99,5 +99,5 @@
 <hr/>
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=kauecaponero&style=plastic&label=Views"><img>
+<img src="https://komarev.com/ghpvc/?username=kauecaponero&style=flat&label=Views"><img>
 </p>
