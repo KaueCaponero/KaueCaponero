@@ -56,6 +56,7 @@
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
     <img alt="Insomnia" src = "https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
+    <img alt="IntelliJ" src= "https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
     <img alt="PowerBI" src="https://img.shields.io/badge/Power_Bi-F2C811?style=flat&logo=powerbi&logoColor=black">
     <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
