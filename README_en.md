@@ -12,7 +12,7 @@
 &nbsp;<img src="images/brazil.png" height="15">&nbsp; Living in Brazil.\
 👷 Graduated in Civil Engineering in 2015.\
 👯 Backend Development.\
-🖥️ Currently working as a Developer and Middle Office Analyst at [Kuará Capital](https://kuaracapital.com/en/).\
+🖥️ Currently working as a Developer and Middle Office at [Kuará Capital](https://kuaracapital.com/en/).\
 📚 Currently studying Systems Analysis and Development at the [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/).
 
 <p align="center">
