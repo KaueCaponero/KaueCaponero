@@ -12,7 +12,7 @@
 &nbsp;<img src="images/brazil.png" height="15">&nbsp;Morando no Brasil.\
 👷 Formado em Engenharia Civil em 2015.\
 👯 Desenvolvimento Backend.\
-🖥️ Trabalhando atualmente como Desenvolvedor e Analista de Middle Office na empresa [Kuará Capital](https://kuaracapital.com/).\
+🖥️ Trabalhando atualmente como Desenvolvedor e Middle Office na empresa [Kuará Capital](https://kuaracapital.com/).\
 📚 Estudando atualmente na [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/).
 
 <p align="center">
