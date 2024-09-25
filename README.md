@@ -10,10 +10,10 @@
 ## Sobre mim
 
 &nbsp;<img src="images/brazil.png" height="15">&nbsp;Morando no Brasil.\
-👷 Formado em Engenharia Civil em 2015.\
+👷 Formado em Engenharia Civil em 2015 pela [Universidade das Faculdades Metropolitanas Unidas - UniFMU](https://portal.fmu.br/).\
+👷 Formado em Análise e Desenvolvimento de Sistemas em 2024 pela [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/).\
 👯 Desenvolvimento Backend.\
-🖥️ Trabalhando atualmente como Desenvolvedor e Middle Office na empresa [Kuará Capital](https://kuaracapital.com/).\
-📚 Estudando atualmente na [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/).
+🖥️ Trabalhando atualmente como Desenvolvedor Backend na empresa [Kuará Capital](https://kuaracapital.com/).\
 
 <p align="center">
     <a href="https://github.com/KaueCaponero"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
