@@ -11,8 +11,8 @@
 
 &nbsp;<img src="images/brazil.png" height="15">&nbsp; Living in Brazil.\
 👯 Backend Development.\
-👷 Graduated in Civil Engineering in 2015 from [Universidade das Faculdades Metropolitanas Unidas - UniFMU](https://portal.fmu.br/).\
-👷 Graduated in Systems Analysis and Development in 2024 from [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/).\
+👷 Graduated in Civil Engineering in 2015 at [Universidade das Faculdades Metropolitanas Unidas - UniFMU](https://portal.fmu.br/).\
+👷 Graduated in Systems Analysis and Development in 2024 at [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/).\
 🖥️ Currently working as a Backend Developer at [Kuará Capital](https://kuaracapital.com/en/).
 
 <p align="center">
