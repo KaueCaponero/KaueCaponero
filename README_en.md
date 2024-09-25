@@ -10,10 +10,10 @@
 ## About Me
 
 &nbsp;<img src="images/brazil.png" height="15">&nbsp; Living in Brazil.\
-👷 Graduated in Civil Engineering in 2015.\
 👯 Backend Development.\
-🖥️ Currently working as a Developer and Middle Office at [Kuará Capital](https://kuaracapital.com/en/).\
-📚 Currently studying Systems Analysis and Development at the [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/).
+👷 Graduated in Civil Engineering in 2015 from [Universidade das Faculdades Metropolitanas Unidas - UniFMU](https://portal.fmu.br/).\
+👷 Graduated in Systems Analysis and Development in 2024 from [Faculdade de Informática e Administração Paulista - FIAP](https://www.fiap.com.br/).\
+🖥️ Currently working as a Backend Developer at [Kuará Capital](https://kuaracapital.com/en/).
 
 <p align="center">
     <a href="https://github.com/KaueCaponero"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
